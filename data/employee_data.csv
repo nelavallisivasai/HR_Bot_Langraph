@@ -1,0 +1,6 @@
+employee_id,name,position,organizational_unit,hire_date,regularization_date,vacation_leaves_remaining,sick_leaves_remaining,basic_pay_in_rs,employment_status,manager
+1005674,Siva Sai,Software Engineer,Research Department,2/16/2013,7/16/2013,11,6,57000,Permanent,Thyagu
+1005675,Diwakar,HR Assistant,HR Department,1/1/2023,4/1/2023,14,2,90000,Permanent,Thyagu
+1005676,Veera,Account Recievable Assistant,Finance Department,11/1/2017,,9,5,30000,Probation,Thyagu
+1005677,Thyagu,Recruitment Supervisor,Finance Department,10/15/2021,4/15/2022,16,4,150000,Permanent,Venket
+
